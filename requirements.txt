@@ -1,0 +1,5 @@
+streamlit
+pandas
+api_key
+coinpaprika
+client
